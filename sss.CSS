@@ -1,0 +1,28 @@
+
+.qq{
+    
+  background-image: url('m.jpg');
+  background-size: cover;
+   background-attachment:fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+a:hover{
+  font-weight:bolder;
+    font-size:xx-large;
+    color:yellow;
+    
+    
+}
+
+
+  ul{
+    list-style-type:square;
+    
+  }
+  li{
+     font-size:xx-large;
+  }
+  p{
+     font-size:large;
+  }
